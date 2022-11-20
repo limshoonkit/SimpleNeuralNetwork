@@ -1,4 +1,4 @@
-**[NOTE: WIP. Not fully tested, there are still bugs presesnt.]**
+**[NOTE: WIP. Not fully tested, there are still bugs present.]**
 
 # C++ implementation of a Back Propagation Neural Network
 
