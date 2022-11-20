@@ -1,0 +1,19 @@
+{
+    "datasetPath": "../Dataset/iris-dataset.csv",
+    "tokenPath": "../Dataset/iris-token.json",
+    "importWeightPath": "",
+    "exportWeightPath": "",
+    "topology": [
+        4,
+        2,
+        3,
+        3
+    ],
+    "training_split": 0.15,
+    "learning_rate": 0.12,
+    "momentum": 0.4,
+    "bias": 1.0,
+    "hiddenLayerActivation": 1,
+    "epoch": 200,
+    "accuracyThreshold": 0.70
+}
