@@ -13,19 +13,19 @@ Credits to https://www.millermattson.com/dave/?p=54
 
 There are two sample datasets. The classic iris dataset https://www.kaggle.com/datasets/uciml/iris and a simplified breast cancer dataset https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset.
 
-Iris dataset has 4 inputs and 3 output class.
-Input
+### Iris dataset has 4 inputs and 3 output class.
+#### Input
 * Sepal Length
 * Sepal Width
 * Petal Length
 * Petal Width
-Output
+#### Output
 * Iris-setosa       (1 0 0)
 * Iris-versicolor   (0 1 0)
 * Iris-virginica    (0 0 1)
 
-Breast cancer dataset has 8 inputs and 2 output class.
-Input
+### Breast cancer dataset has 8 inputs and 2 output class.
+#### Input
 * Radius of Lobes
 * Mean of Surface Texture
 * Outer Perimeter of Lobes
@@ -34,7 +34,7 @@ Input
 * Mean of Compactness
 * Mean of Concavity
 * Mean of Cocave Points
-Output
+#### Output
 * Benign       (1 0)
 * Malignant    (0 1)
 
