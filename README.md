@@ -8,6 +8,7 @@ Implementation of a simple neural network using C++
 3. Preprocessing - Utility classes to process the dataset
 
 Credits to https://www.millermattson.com/dave/?p=54
+Fair advice, just use Python and the ML libs.
 
 ## Dataset
 
